@@ -1,0 +1,14 @@
+ .lesson {
+     list-style: none;
+     padding: 5px;
+     border: 1px solid #ddd;
+     margin: 5px;
+ }
+
+ .yellow-highlight {
+     background-color: #efb920;
+ }
+
+ .blue-outline {
+     border: 4px dotted #009FE3;
+ }
